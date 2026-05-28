@@ -30,4 +30,4 @@ It allows users to create personalized profile pages with unique handles and sha
 Clone the repository:
 
 ```bash
-git clone https://github.com/SaniaSalahuddin/lynkbit.git
+git clone https://github.com/SaniaSalahuddin/Lynkbit.git
